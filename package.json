@@ -1,7 +1,7 @@
 {
-  "name": "SHABAN-MD",
+  "name": "raven_bot",
   "version": "6.0.0",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
+  "description": "WHATSAPP BOT CREATED BY MR raven⁴⁸",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
