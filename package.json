@@ -4,10 +4,8 @@
   "description": "WHATSAPP BOT CREATED BY MR raven⁴⁸",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
-  },
+  "start": "node index.js"
+}
   "keywords": [
     "shaban-md",
     "whatsapp-bot",
